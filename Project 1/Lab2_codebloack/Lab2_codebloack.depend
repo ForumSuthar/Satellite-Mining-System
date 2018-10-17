@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1539571329 source:f:\uw 474\lab2\lab2_codebloack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"bool.h"
+	<unistd.h>
+
+1539569599 f:\uw 474\lab2\lab2_codebloack\structures.h
+	"bool.h"
+
+1539569599 f:\uw 474\lab2\lab2_codebloack\bool.h
+
